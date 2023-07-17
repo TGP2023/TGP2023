@@ -4,9 +4,9 @@ Eu sou o Tiago, sou um programador Front End, atualmente estou aprendendo e cria
 <br>
 <br>
 
-### ⚡ Linguagens e Ferramentas:
+### 💻 Tecnologias:
 
-Essas são algumas das Tecnologias e Ferramentas que trabalho.
+Essas são algumas das Tecnologias e Ferramentas que eu trabalho.
 <br>
 <br>
 <p align="left">
