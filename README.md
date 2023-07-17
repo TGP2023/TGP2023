@@ -19,11 +19,14 @@ Conecte-se comigo:
 <a href="www.linkedin.com/in/tiago-ferreira-desenvolvedor">
  <img align="left" alt="LinkedIn" height="100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+ </p> 
+ 
+<p>
 <a >
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
-
-</p>  
+</p>
+ 
 <br>
 <p align="left">
  <br />
