@@ -26,7 +26,7 @@ Conecte-se comigo:
 <br>
 <p align="left">
  <br />
- 
+
 [![Tiago stats](https://github-readme-stats.vercel.app/api?username=TGP2023)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023)](https://github.com/anuraghazra/github-readme-stats)>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023)](https://github.com/anuraghazra/github-readme-stats)
