@@ -18,7 +18,6 @@ Essas são algumas das Tecnologias e Ferramentas que trabalho.
  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </p>  
 <br>
-<br>
 Conecte-se comigo:
 <br>
 <br>
