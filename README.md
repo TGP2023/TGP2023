@@ -3,6 +3,7 @@
 Eu sou o Tiago, sou um programador Front End, atualmente estou aprendendo e criando projetos.
 <br>
 <br>
+
 ### ⚡ Linguagens e Ferramentas:
 
 Essas são algumas das Tecnologias e Ferramentas que trabalho.
@@ -18,9 +19,10 @@ Essas são algumas das Tecnologias e Ferramentas que trabalho.
  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </p>  
 <br>
-Conecte-se comigo:
+
+### 🌐 Redes Sociais:
 <br>
-<br>
+
 <p>
  
 <a href="">
