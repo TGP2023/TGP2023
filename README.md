@@ -39,6 +39,9 @@ Essas são algumas das Tecnologias e Ferramentas que eu trabalho.
  <br />
 
 <div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGP2023&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGP2023&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
+
+
+
