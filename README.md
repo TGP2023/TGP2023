@@ -38,6 +38,13 @@ Essas são algumas das Tecnologias e Ferramentas que eu trabalho.
 <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGP2023&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023&layout=compact&langs_count=16&theme=blue-green"/>
+
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
