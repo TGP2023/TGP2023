@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Eu sou o Tiago, sou um programador Front End, atualmente estou aprendendo e criando projetos.
 <br>
