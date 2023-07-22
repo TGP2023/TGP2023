@@ -32,12 +32,9 @@ Essas são algumas das Tecnologias e Ferramentas que eu trabalho.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22">
 
 </div> 
-
-
 <br>
 <p align="left">
  <br />
-
 <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGP2023&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGP2023&layout=compact&langs_count=16&theme=blue-green"/>
